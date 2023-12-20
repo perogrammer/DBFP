@@ -1,0 +1,97 @@
+C:\Users\ACER\Desktop\cafe MS\DBFP\bin\Debug\DBFP.exe.config
+C:\Users\ACER\Desktop\cafe MS\DBFP\bin\Debug\DBFP.exe
+C:\Users\ACER\Desktop\cafe MS\DBFP\bin\Debug\DBFP.pdb
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Form1.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Properties.Resources.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.exe
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.pdb
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Admin.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl1.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl2.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl3.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl4.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Manager.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Customer.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl1.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl2.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl3.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl4.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl5.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.csproj.CopyComplete
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Cust.uControl.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl6.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl5.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Cust.UControl2.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Cust.uControl3.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Cust.uControl4.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl6.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.UserControl7.resources
+C:\Users\ACER\Desktop\cafe MS\DBFP\obj\Debug\DBFP.Mang.mControl7.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\bin\Debug\DBFP.exe.config
+C:\Users\Lenovo\Downloads\DBFP\DBFP\bin\Debug\DBFP.exe
+C:\Users\Lenovo\Downloads\DBFP\DBFP\bin\Debug\DBFP.pdb
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Admin.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Customer.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Cust.uControl.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Cust.UControl2.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Cust.uControl3.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Cust.uControl4.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Form1.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Manager.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl1.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl2.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl3.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl4.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl5.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl6.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Mang.mControl7.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl1.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl2.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl3.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl4.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl5.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl6.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.UserControl7.resources
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.exe
+C:\Users\Lenovo\Downloads\DBFP\DBFP\obj\Debug\DBFP.pdb
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.exe
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.pdb
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\bin\Debug\DBFP.exe.config
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\bin\Debug\DBFP.exe
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\bin\Debug\DBFP.pdb
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Admin.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Customer.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Cust.uControl.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Cust.UControl2.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Cust.uControl3.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Cust.uControl4.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Form1.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Manager.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl1.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl2.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl3.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl4.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl5.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl6.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Mang.mControl7.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.Properties.Resources.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl1.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl2.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl3.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl4.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl5.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl6.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.UserControl7.resources
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DB-PROJECT\DB-PROJECT\DBFP\obj\Debug\DBFP.csproj.CopyComplete
